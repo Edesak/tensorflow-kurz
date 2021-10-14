@@ -1,4 +1,7 @@
-#Tensorflow kurz
+Tensorflow kurz
+------------------------
+
+
 Tento repozitář je z kurzu udemy, kde se učím na Google Certificate v Tensorflow.
 
 Jedná se o kód a kurz, který je veřejně dostupný na https://github.com/mrdbourke/tensorflow-deep-learning. 
