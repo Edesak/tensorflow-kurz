@@ -9,6 +9,6 @@ Placená verze obsahuje navíc pouze videa, kde není řešení cvičení.
 
 -----------------------------------------
 
-Tento repositář obsahuje můj kód, který jsem napsal s komentáři. 98% Tohoto kódu jsem psal vlastnoručně. 
+Tento repositář obsahuje můj kód, který jsem napsal s komentáři (komentáře jsou mix angličtiny a češtiny bez diakritiky nechtělo se mi přehazovat z anglické klávesnice na českou). 98% Tohoto kódu jsem psal vlastnoručně. 
 ---------------------------------
 Celý kurz jsem ještě nedodělal tudíž tady nejsou všechny soubory, které najdete v originále. 
